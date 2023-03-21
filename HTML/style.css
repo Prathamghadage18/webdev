@@ -1,0 +1,24 @@
+h1{
+    color:blueviolet
+}
+h2{
+    margin-top: 2px;
+    border-radius: 2px;
+}
+h3{
+    background-color: chocolate;
+}
+h4{
+    background-color: darkorange;
+}
+.heading4{
+    color: burlywood;
+    background-color: blue;
+    
+}
+.heading-div{
+    background-color: cadetblue;
+    text-align: center;
+    background-image: -moz-linear-gradient();
+    border-color: black;
+}
